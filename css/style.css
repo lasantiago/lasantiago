@@ -1,10 +1,10 @@
-﻿body {
+﻿/* style.css */
+body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
 }
 
-header, section, footer {
-    margin: 20px;
-    padding: 20px;
+.container {
+    max-width: 800px;
 }
