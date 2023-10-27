@@ -8,3 +8,12 @@ body {
 .container {
     max-width: 800px;
 }
+
+/* style.css */
+.jumbotron {
+    background-color: #f8f9fa; /* This is a light grey background */
+    /* Optional: Add a background image */
+    background-image: url('../img/jumbotron.png');
+    background-size: cover;
+    background-position: center;
+}
